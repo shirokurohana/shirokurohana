@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 <h2 align="left">How to reach me:</h2>
 
 <ul>
-  <li>Email: <a href="mailto:natirey@pm.me">natirey@pm.me</a>/li>
-  <li>Linkedin: <a href="mailto:natirey@pm.me">https://www.linkedin.com/in/natihana/</a></li>
+  <li>Email: <a href="mailto:natirey@pm.me">natirey@pm.me</a></li>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/natihana/">https://www.linkedin.com/in/natihana/</a></li>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
