@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">🔐 Tools: Splunk, Wireshark, CyberChef, OSINT tools<br>📚 I'm currently learning Windows Server, Spiceworks, and VMs <br>🎯 Goals: Break into IT/Cybersecurity
+<p align="left">🔐 Tools: Splunk, Wireshark, CyberChef, OSINT tools<br>📚 What I'm currently learning: Windows Server, Spiceworks, IT Practical Helpdesk course by <a href="https://www.linkedin.com/in/andrew-bellini/">Andrew Bellini,</a> and VMs <br>🎯 Goals: Break into IT/Cybersecurity
 
 ###
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img width="12" />
 
   <div align="left">
-  <img src="https://en.wikipedia.org/wiki/C++#/media/File:ISO_C++_Logo.svg" height="40" alt="C++ logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo"  />
   <img width="12" />
 
 
